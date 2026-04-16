@@ -1,6 +1,6 @@
 # cprint
-Custom print | C++ 
-This is my first project in C++, I made it for myself.
+- Custom print | C++ 
+- This is my first project in C++, I made it for myself.
 
 # usage
 
