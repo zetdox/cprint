@@ -1,5 +1,5 @@
 # cprint
-Custom print | C++ \n
+Custom print | C++ 
 This is my first project in C++, I made it for myself.
 
 # usage
